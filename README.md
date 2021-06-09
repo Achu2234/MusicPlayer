@@ -8,19 +8,18 @@ Please fork this repository don't import code
 Made with Python3
 (C) @subinps
 Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ```
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0)
 
 
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/MusicPlayer
+git clone https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -63,7 +62,7 @@ Fork the repo, Do not Import code.
 ```
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://t.me/Yeageristbotsdev)
 
 ## Credits 
 - [Dash Eclipse's](https://github.com/dashezup) for his[tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
